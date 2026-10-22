@@ -43,6 +43,7 @@
     'Docs':        { icon: 'file-text',      bg: 'bg-indigo-50',     border: 'border-indigo-200/70',  text: 'text-indigo-600',    accent: 'bg-indigo-200',  hover: 'hover:border-indigo-400' },
     'Vids':        { icon: 'circle-play',    bg: 'bg-purple-50',     border: 'border-purple-200/70',  text: 'text-purple-600',    accent: 'bg-purple-200',  hover: 'hover:border-purple-400' },
     'Classroom':   { icon: 'graduation-cap', bg: 'bg-teal-50',       border: 'border-teal-200/70',    text: 'text-teal-600',      accent: 'bg-teal-200',    hover: 'hover:border-teal-400' },
+    'Sites':       { icon: 'layout-template', bg: 'bg-cyan-50',      border: 'border-cyan-200/70',    text: 'text-cyan-600',      accent: 'bg-cyan-200',    hover: 'hover:border-cyan-400' },
     'Default':     { icon: 'zap',            bg: 'bg-brandOffWhite', border: 'border-brandSlate',     text: 'text-brandElectric', accent: 'bg-brandSlate',  hover: 'hover:border-brandElectric' },
   };
 
